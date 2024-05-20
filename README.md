@@ -1,20 +1,11 @@
-# LineBot-basic
+# IotTalk 即時氣象LineBot+爬蟲 作業練習
 
-LineBot SDK and Flask are required.
+IDF和ODF都寫在LineBot.py裡面，跑一個黨就可以了
 
 ## Installation:
 
 `pip install line-bot-sdk Flask`
 
-## Run
-Please fill the LineBot information in `config.py` then run the example code by
-`python example.py`.
-
-## Reference: 
-
-`https://pypi.org/project/line-bot-sdk/`
-
-`https://pypi.org/project/Flask/`
 
 
 
